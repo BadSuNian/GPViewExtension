@@ -1,0 +1,16 @@
+PODS:
+  - GPViewExtension (0.1.0)
+
+DEPENDENCIES:
+  - GPViewExtension (from `../`)
+
+EXTERNAL SOURCES:
+  GPViewExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GPViewExtension: 0cf58b1d340e70b437097dcb384ebe450a62da36
+
+PODFILE CHECKSUM: 16999acc45d0d60332c0e12592ece0de824f30c5
+
+COCOAPODS: 1.2.1

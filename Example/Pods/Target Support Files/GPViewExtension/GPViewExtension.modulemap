@@ -1,0 +1,6 @@
+framework module GPViewExtension {
+  umbrella header "GPViewExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

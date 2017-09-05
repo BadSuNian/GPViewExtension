@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GPViewExtension_Example' do
+  pod 'GPViewExtension', :path => '../'
+
+  target 'GPViewExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
